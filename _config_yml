@@ -1,0 +1,9 @@
+# Site Settings
+locale                   : "en-US"
+title                    : "Site Title"
+title_separator          : "-"
+subtitle                 : my space
+name                     : "Kayoung"
+description              : "My space for only me"
+url                      : "https://https://iamkayoung.github.io/"
+baseurl                  : ""
